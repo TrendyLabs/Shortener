@@ -27,7 +27,7 @@ And a new line to the `aliases` array:
 
 Now you need to publish config file:
 
-  php artisan vendor:publish
+	php artisan vendor:publish
 
 Then you can edit your Google API Keys
 
