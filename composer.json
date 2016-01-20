@@ -1,9 +1,12 @@
 {
     "name": "trendylabs/shortener",
-    "description": "API to get short URLs via Googl Shortener",
+    "description": "API for Laravel 5 to get short URLs via Googl Shortener",
+    "keywords": ["laravel", "shortener", "googl"],
     "type": "Laravel",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "illuminate/support": "~5"
+    },
     "license": "MIT",
     "authors": [
         {
